@@ -1,0 +1,20 @@
+---
+title: "Passive Sensor"
+subtitle: "Applications in remote sensing technology"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE) 
+```
+#Introduction
+<p style="font-size:1.3em;">Passive sensors are a type of remote sensing device that do not actively emit energy. They rely on external energy, usually illumination from the sun, to detect and measure reflected or radiated energy from objects or areas. This sensor type is widely used in earth observation, satellite imaging, environmental monitoring and other fields. Because they emit no signal, passive sensors generally have low energy consumption and can operate continuously as long as an external energy source is present. They are particularly useful in remote sensing at optical, infrared and microwave bands, capturing natural radiation reflected from the Earth's surface and atmosphere.
+---
+
